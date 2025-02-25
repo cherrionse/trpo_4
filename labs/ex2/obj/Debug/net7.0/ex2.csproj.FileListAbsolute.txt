@@ -1,0 +1,14 @@
+D:\TRPO_GIT\labs\ex2\bin\Debug\net7.0\ex2.exe
+D:\TRPO_GIT\labs\ex2\bin\Debug\net7.0\ex2.deps.json
+D:\TRPO_GIT\labs\ex2\bin\Debug\net7.0\ex2.runtimeconfig.json
+D:\TRPO_GIT\labs\ex2\bin\Debug\net7.0\ex2.dll
+D:\TRPO_GIT\labs\ex2\bin\Debug\net7.0\ex2.pdb
+D:\TRPO_GIT\labs\ex2\obj\Debug\net7.0\ex2.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRPO_GIT\labs\ex2\obj\Debug\net7.0\ex2.AssemblyInfoInputs.cache
+D:\TRPO_GIT\labs\ex2\obj\Debug\net7.0\ex2.AssemblyInfo.cs
+D:\TRPO_GIT\labs\ex2\obj\Debug\net7.0\ex2.csproj.CoreCompileInputs.cache
+D:\TRPO_GIT\labs\ex2\obj\Debug\net7.0\ex2.dll
+D:\TRPO_GIT\labs\ex2\obj\Debug\net7.0\refint\ex2.dll
+D:\TRPO_GIT\labs\ex2\obj\Debug\net7.0\ex2.pdb
+D:\TRPO_GIT\labs\ex2\obj\Debug\net7.0\ex2.genruntimeconfig.cache
+D:\TRPO_GIT\labs\ex2\obj\Debug\net7.0\ref\ex2.dll
