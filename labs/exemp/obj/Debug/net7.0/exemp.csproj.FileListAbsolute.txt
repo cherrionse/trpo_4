@@ -1,0 +1,14 @@
+D:\TRPO_GIT\labs\exemp\bin\Debug\net7.0\exemp.exe
+D:\TRPO_GIT\labs\exemp\bin\Debug\net7.0\exemp.deps.json
+D:\TRPO_GIT\labs\exemp\bin\Debug\net7.0\exemp.runtimeconfig.json
+D:\TRPO_GIT\labs\exemp\bin\Debug\net7.0\exemp.dll
+D:\TRPO_GIT\labs\exemp\bin\Debug\net7.0\exemp.pdb
+D:\TRPO_GIT\labs\exemp\obj\Debug\net7.0\exemp.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRPO_GIT\labs\exemp\obj\Debug\net7.0\exemp.AssemblyInfoInputs.cache
+D:\TRPO_GIT\labs\exemp\obj\Debug\net7.0\exemp.AssemblyInfo.cs
+D:\TRPO_GIT\labs\exemp\obj\Debug\net7.0\exemp.csproj.CoreCompileInputs.cache
+D:\TRPO_GIT\labs\exemp\obj\Debug\net7.0\exemp.dll
+D:\TRPO_GIT\labs\exemp\obj\Debug\net7.0\refint\exemp.dll
+D:\TRPO_GIT\labs\exemp\obj\Debug\net7.0\exemp.pdb
+D:\TRPO_GIT\labs\exemp\obj\Debug\net7.0\exemp.genruntimeconfig.cache
+D:\TRPO_GIT\labs\exemp\obj\Debug\net7.0\ref\exemp.dll
